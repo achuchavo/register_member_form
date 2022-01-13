@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_search_user.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\layout\\activity_search_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\layout\\activity_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_right_bottom_black.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\drawable\\border_right_bottom_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_image_result.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\layout\\activity_image_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_view_record.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\layout\\activity_view_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_left_black.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\drawable\\border_left_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_conditions.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\layout\\activity_update_conditions.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_right_black.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\drawable\\border_right_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\color_redd.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\color\\redd.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_bottom_right_top_black.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\drawable\\border_bottom_right_top_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_bottom.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\drawable\\border_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_bottom_top.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\drawable\\border_bottom_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable_customborder.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\drawable\\customborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_all_black.xml.flat",
+        "source": "C:\\Users\\achum\\Box\\Projects\\Kiosk_Munjin\\app\\src\\main\\res\\drawable\\border_all_black.xml"
+    }
+]
